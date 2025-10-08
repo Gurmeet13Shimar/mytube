@@ -1,0 +1,25 @@
+{
+  "name": "mytube",
+  "version": "1.0.0",
+  "description": "a backend proj",
+  "keywords": [
+    "javascript",
+    "backend",
+    "mytube"
+  ],
+  "homepage": "https://github.com/Gurmeet13Shimar/mytube#readme",
+  "bugs": {
+    "url": "https://github.com/Gurmeet13Shimar/mytube/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurmeet13Shimar/mytube.git"
+  },
+  "license": "ISC",
+  "author": "Gurmeet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
